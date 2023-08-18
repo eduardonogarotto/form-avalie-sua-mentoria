@@ -1,16 +1,15 @@
-<h1 align="center"> Formulário - Avalie a sua mentoria (Em desenvolvimento)</h1>
+<h1 align="center"> Formulário - Avalie a sua mentoria</h1>
 
 <p align="center">
 Exercício para aplicar todos os conhecimentos obtidos. <br/>
 Neste desafio foi fornecido um layout pronto no Figma e o objetivo era desenvolve-lo para fixar os conhecimentos obtidos até o momento (conceitos de HTML, CSS e utilização do Figma).<br/>
 
-<!--
+
 <p align="center">
 A imagem abaixo representa o resultado final do projeto, e na seção Projeto Finalizado você pode acessar o projeto publicado online e conferir todos os detalhes. 
 <br/><br/>
 <img src="./github/projeto-finalizado.png" width="700">
 </p>
--->
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,10 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto Finalizado
 
-Em desenvolvimento.
-<!--
-<a href="" target="_blank"><strong> - Clique aqui para acessar o meu projeto finalizado.</strong></a>
--->
+<a href="https://form-avalie-sua-mentoria.vercel.app/" target="_blank"><strong> - Clique aqui para acessar o meu projeto finalizado.</strong></a>
+
 
 ## 🔖 Layout
 
